@@ -53,4 +53,5 @@ https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principale
 
 ## Updates
 June:
-- **06/09/2022:** Landing Page Updated
+- **06/09/2022:** Fixed Typos and Landing Page Header 
+- **06/08/2022:** Landing Page Updated
