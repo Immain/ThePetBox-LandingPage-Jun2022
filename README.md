@@ -35,6 +35,12 @@ https://www.onlynaturalpet.com/products/only-natural-pet-powerfusion-grain-free-
 Cat Playing:
 https://imgs.search.brave.com/r-Memy4Ik9JGCGUkioq7RStVp1SHKsiXES8Rwk6eXWg/rs:fit:400:400:1/g:ce/aHR0cDovL2Fzc2V0/cy5zdGlja3BuZy5j/b20vdGh1bWJzLzU4/MGI1N2ZiZDk5OTZl/MjRiYzQzYmI5My5w/bmc
 
+Cat Playing Two:
+https://www.pngarts.com/files/3/Cat-PNG-Transparent-Image.png
+
+Cat Toy:
+https://petsdeck.com/wp-content/uploads/2019/04/16196-8babe7e33cc68fa6dbdbc7eb86965c91.jpg
+
 Maine Coon Cat:
 https://www.jing.fm/clipimg/detail/185-1852400_young-maine-coon-cat-maine-coon-white-background.png
 
