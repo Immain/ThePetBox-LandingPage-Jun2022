@@ -17,6 +17,7 @@ The Pet Box is a fictional Pet Box subscription service. Using this website, you
 - **Headless UI:** https://headlessui.dev/
 
 **Image Resources:**
+
 Black Cat
 https://www.pixel4k.com/wp-content/uploads/2018/03/Black%20Cat9434910327.jpg
 
