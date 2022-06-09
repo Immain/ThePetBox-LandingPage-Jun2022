@@ -18,10 +18,10 @@ The Pet Box is a fictional Pet Box subscription service. Using this website, you
 
 ## Image Resources:
 
-Black Cat
+Black Cat:
 https://www.pixel4k.com/wp-content/uploads/2018/03/Black%20Cat9434910327.jpg
 
-Paw Prints
+Paw Prints:
 https://www.clipartkey.com/view/xxhThJ_dog-paw-print-backgrounds/
 
 Power Fusion Food Image One:
