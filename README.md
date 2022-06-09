@@ -9,7 +9,7 @@ The Pet Box is a fictional Pet Box subscription service. Using this website, you
 
 ## Technologies
 **Main Platform:**
-- **React.js:** https://reactjs.org/
+- **React.js:** https://reactjs.org/](https://the-pet-box-landing-page-jun2022.vercel.app/
 
 **Packages:**
 - **React Icons:** https://react-icons.github.io/react-icons
