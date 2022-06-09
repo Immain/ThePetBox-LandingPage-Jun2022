@@ -2,14 +2,14 @@
 Landing Page for a fictional Pet Toy Shop 
 
 ## Demo
-https://the-pet-box.vercel.app/
+https://the-pet-box-landing-page-jun2022.vercel.app/
 
 ## About
 The Pet Box is a fictional Pet Box subscription service. Using this website, you would be able to purchase a subscription service that would deliver toys, food, treats, and other various goodies to your cat companion for a very low cost. This website was created as a fun project to help out my fathers classmates for one of their bigger projects. Please enjoy this landing page.
 
 ## Technologies
 **Main Platform:**
-- **React.js:** https://reactjs.org/](https://the-pet-box-landing-page-jun2022.vercel.app/
+- **React.js:** https://reactjs.org/
 
 **Packages:**
 - **React Icons:** https://react-icons.github.io/react-icons
